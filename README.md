@@ -4,7 +4,7 @@
 Monte Carlo Simulatio of Phase Transitions.
 
 - **Third year dissertation**:
-Time Resolution of Particle Detectors [Link](https://github.com/Appassionata000/written-works/blob/main/Time%20Resolution%20of%20Particle%20Detectors.pdf).
+Time Resolution of Particle Detectors. ([Link](https://github.com/Appassionata000/written-works/blob/main/Time%20Resolution%20of%20Particle%20Detectors.pdf) )
 
 - **Third year lab report**:
 Higgs Decaying to Diphoton.
